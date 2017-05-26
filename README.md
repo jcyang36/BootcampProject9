@@ -1,0 +1,1 @@
+This project takes the customer name, purchase amount, and tax code and outputs the total due.
